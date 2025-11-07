@@ -1,0 +1,56 @@
+# Security Awareness — Quick Reference (One Page)
+
+Purpose: Short, practical reminders to help staff reduce common security risks.
+
+1. Phishing & Suspicious Messages
+- Pause before you click links or open attachments. Verify unexpected requests by phone or separate channel.
+- Check sender addresses carefully; look for typos or impersonation.
+- When in doubt, do not reply — report to IT/security.
+
+2. Passwords & Accounts
+- Use a password manager to create and store unique, strong passwords.
+- Avoid reusing passwords across services.
+- Change passwords only if notified by IT or suspect compromise.
+
+3. Multi-Factor Authentication (MFA)
+- Enable MFA on all accounts that support it (work and personal).
+- Prefer authenticator apps or hardware keys over SMS where possible.
+
+4. Device Security
+- Lock devices when unattended; use screen lock PIN/password/biometrics.
+- Keep OS and applications up to date — install security updates promptly.
+- Avoid installing unapproved software or plugins.
+
+5. Network Safety
+- Use corporate VPN for remote access to internal systems.
+- Avoid public Wi‑Fi for sensitive transactions; use a hotspot or VPN if needed.
+- Verify Wi‑Fi names before connecting.
+
+6. Data Handling & Privacy
+- Follow the principle of least privilege: only access and share data needed for your role.
+- Store sensitive data in approved systems and encrypt when required.
+- Remove sensitive data from local drives when no longer needed.
+
+7. Removable Media & Physical Security
+- Don’t plug in unknown USB devices.
+- Keep laptops and sensitive documents secured; report lost/stolen devices immediately.
+
+8. Reporting Incidents
+- Report suspected phishing, data leaks, or device loss immediately to the security/IT team.
+- Include screenshots, email headers, or timelines if available.
+- Prompt reporting reduces impact.
+
+9. Social Engineering Awareness
+- Be skeptical of urgent requests for money, credentials, or secrets — verify identity first.
+- Don’t share credentials with co‑workers or vendors by email.
+
+10. Personal Best Practices
+- Separate personal and work accounts where possible.
+- Regularly review account permissions and authorized apps.
+- Participate in periodic security training and simulated phishing exercises.
+
+Emergency contacts
+- IT/security helpdesk: [Insert contact]
+- Incident reporting: [Insert process or link]
+
+Last reviewed: [YYYY-MM-DD]
